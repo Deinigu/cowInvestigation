@@ -1,5 +1,5 @@
 # Trabajo Voluntario para TALF
-#Un trabajo de investigación sobre los lenguajes de programación esotéricos.
+# Un trabajo de investigación sobre los lenguajes de programación esotéricos.
 
 El repositorio incluye:
 * Documentos explicativos
