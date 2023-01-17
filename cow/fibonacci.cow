@@ -7,7 +7,8 @@ mOo
 MOO
 ; Imprime el primer número
 OOM
-;Copia en el registro el primer número y lo lleva a un bloque al que ;llamaremos temp
+; Copia en el registro el primer número y lo lleva a un bloque 
+; al que llamaremos temp
 MMM
 moO
 moO
@@ -22,7 +23,8 @@ MMM
 ; Volvemos al bloque temp
 moO
 moO
-; Usamos el bloque temp para sumarlo al primer número y lo guardamos ;en el segundo y volvemos a comenzar el bucle
+; Usamos el bloque temp para sumarlo al primer número y lo guardamos 
+; en el segundo y volvemos a comenzar el bucle
 MOO
 MOo
 mOo
