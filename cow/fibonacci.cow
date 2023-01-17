@@ -1,34 +1,31 @@
+; Inicialización de las variables
 MoO
 moO
 MoO
 mOo
-[[ main loop ]]
+; Loop
 MOO
-[[ print first number ]]
+; Imprime el primer número
 OOM
-[[ temp copy of first number ]]
+;Copia en el registro el primer número y lo lleva a un bloque al que ;llamaremos temp
 MMM
 moO
 moO
 MMM
 mOo
 mOo
-[[ store second number off in the first position now ]]
+; Pone el segundo número en la primera posición
 moO
 MMM
 mOo
 MMM
-[[ move back to temp number ]]
+; Volvemos al bloque temp
 moO
 moO
-[[ use temp to add to first and store in second in loop ]]
+; Usamos el bloque temp para sumarlo al primer número y lo guardamos ;en el segundo y volvemos a comenzar el bucle
 MOO
 MOo
 mOo
 MoO
 moO
 moo
-mOo
-mOo
-moo
-
